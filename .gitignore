@@ -1,0 +1,44 @@
+# Configuration files
+*.config
+.tpt_config
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*~
+.*.swp
+.*.swo
+
+# Tools directory (can be re-downloaded)
+tpt-tools/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Environment files
+.env
+.venv/
+
+# Metasploit database files
+*.db
+*.mdb
+
+# John the Ripper pot files
+*.pot
+
+# Hydra log files
+hydra*.log
+
+# Nmap output files
+*.nmap
+*.gnmap
+*.xml
